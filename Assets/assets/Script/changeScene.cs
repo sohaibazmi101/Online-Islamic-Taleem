@@ -7,11 +7,13 @@ using UnityEngine.SceneManagement;
 public class changeScene : MonoBehaviour
 {
 
-    public int scene_no = 2;
-
     public void change_to_level_selection()
     {
-        SceneManager.LoadScene(scene_no);
+        SceneManager.LoadScene(2);
+    }
+
+    public void change_to_level_one(){
+        SceneManager.LoadScene(3);
     }
 
 }
