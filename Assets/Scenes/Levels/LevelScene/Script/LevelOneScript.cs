@@ -16,9 +16,16 @@ private Rigidbody2D player;
     public LayerMask groundLayer;
     private bool isTouchingGround;
 
+    private Animator playerAnimation;
+
+    private Vector3 respawnPoint;
+    public GameObject fallDetector;
+
     void Start()
     {
         player = GetComponent<Rigidbody2D>();
+        playerAnimation = GetComponent<Animator>();
+        respawnPoint = transform.position;
     }
 
     void Update()
@@ -26,13 +33,14 @@ private Rigidbody2D player;
 
         isTouchingGround = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
 
-        direction = Input.GetAxis("Horizontal");   
-        Debug.Log(direction);
+        direction = Input.GetAxis("Horizontal");
         if(direction > 0f){
             player.velocity = new Vector2(direction * speed, player.velocity.y);
+            transform.localScale = new Vector2(0.2487f, 0.2487f);
         }
         else if(direction < 0){
             player.velocity = new Vector2(direction * speed, player.velocity.y);
+            transform.localScale = new Vector2(-0.2487f, 0.2487f);
         }
         else{
             player.velocity = new Vector2(0f, player.velocity.y);
@@ -40,6 +48,19 @@ private Rigidbody2D player;
 
         if(Input.GetButtonDown("Jump") && isTouchingGround){
             player.velocity = new Vector2(player.velocity.x, jumpSpeed);
+        }
+
+        playerAnimation.SetFloat("Speed", Mathf.Abs(player.velocity.x));
+        playerAnimation.SetBool("onGround", isTouchingGround);
+
+        fallDetector.transform.position = new Vector2(transform.position.x, fallDetector.transform.position.y);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "fallDetect")
+        {
+            transform.position = respawnPoint;
         }
     }
 }
