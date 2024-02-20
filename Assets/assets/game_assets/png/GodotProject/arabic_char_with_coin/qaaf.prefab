@@ -99,7 +99,7 @@ GameObject:
   - component: {fileID: 6018585414774174120}
   m_Layer: 0
   m_Name: qaaf
-  m_TagString: Untagged
+  m_TagString: qaaf
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

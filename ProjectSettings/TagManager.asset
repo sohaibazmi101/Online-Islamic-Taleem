@@ -5,6 +5,37 @@ TagManager:
   serializedVersion: 2
   tags:
   - fallDetect
+  - player
+  - alif
+  - baa
+  - ain
+  - ghain
+  - hey
+  - daal
+  - faa
+  - hhaa
+  - hamza
+  - jeem
+  - kaaf
+  - khaah
+  - laam
+  - laamAlif
+  - meem
+  - noon
+  - qaaf
+  - raa
+  - saa
+  - seen
+  - sheen
+  - suad
+  - taa
+  - wao
+  - yaa
+  - zaa
+  - zaal
+  - zua
+  - zuad
+  - tua
   layers:
   - Default
   - TransparentFX
@@ -14,7 +45,7 @@ TagManager:
   - UI
   - ground
   - 
-  - 
+  - alif
   - 
   - 
   - 

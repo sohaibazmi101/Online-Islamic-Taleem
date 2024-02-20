@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 8518465054137616041}
   m_Layer: 0
   m_Name: ghain
-  m_TagString: Untagged
+  m_TagString: ghain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

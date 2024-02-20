@@ -99,7 +99,7 @@ GameObject:
   - component: {fileID: 1656872000885979404}
   m_Layer: 0
   m_Name: alif
-  m_TagString: Untagged
+  m_TagString: alif
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

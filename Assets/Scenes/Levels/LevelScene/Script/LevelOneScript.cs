@@ -18,14 +18,10 @@ private Rigidbody2D player;
 
     private Animator playerAnimation;
 
-    private Vector3 respawnPoint;
-    public GameObject fallDetector;
-
     void Start()
     {
         player = GetComponent<Rigidbody2D>();
         playerAnimation = GetComponent<Animator>();
-        respawnPoint = transform.position;
     }
 
     void Update()
@@ -53,14 +49,9 @@ private Rigidbody2D player;
         playerAnimation.SetFloat("Speed", Mathf.Abs(player.velocity.x));
         playerAnimation.SetBool("onGround", isTouchingGround);
 
-        fallDetector.transform.position = new Vector2(transform.position.x, fallDetector.transform.position.y);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.tag == "fallDetect")
-        {
-            transform.position = respawnPoint;
-        }
     }
 }

@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1656829889491073775}
   m_Layer: 0
   m_Name: laam_alif
-  m_TagString: Untagged
+  m_TagString: laamAlif
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
