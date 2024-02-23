@@ -36,6 +36,8 @@ TagManager:
   - zua
   - zuad
   - tua
+  - zabar
+  - enemy
   layers:
   - Default
   - TransparentFX
