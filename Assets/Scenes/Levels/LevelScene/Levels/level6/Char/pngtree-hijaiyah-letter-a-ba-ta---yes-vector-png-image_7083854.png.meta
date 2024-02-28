@@ -1,0 +1,844 @@
+fileFormatVersion: 2
+guid: 8cf8bf7f48bf543a19fb6dc900aca0d8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 22
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e05de93bd1e413791e3c27dcb4da3b
+      internalID: -1238810226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 271
+        width: 29
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2a91d9a37c4400b884da880d1184b7
+      internalID: 1411632362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 271
+        width: 35
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268e07f19b23f4eeaa56e78270e927d0
+      internalID: -680421778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 271
+        width: 39
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7708b4c8d4ac4ce9a5edcde5ca3909c
+      internalID: 885553425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 271
+        width: 39
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c444106979862424180fbb57ba94826c
+      internalID: -1363986979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 270.75
+        width: 39.444443
+        height: 90.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143b654e83ed34da8b49c91b6bd18653
+      internalID: -1656355709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 271
+        width: 39
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae2987a5c1dd44f69d5354318d55197
+      internalID: -1715289469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 271
+        width: 39
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174ad55affd394cf8a701cd894129c12
+      internalID: -98656125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 271
+        width: 25
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b898aac261a964365b2a16797e5f1707
+      internalID: -505561897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180.75
+        width: 39.444443
+        height: 90.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2346dd83dcd7f438abcd82c5572d6827
+      internalID: -733833768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 180.75
+        width: 39.444443
+        height: 90.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c2e08ac1e464aa6aee01e587175179
+      internalID: 2085251972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 181
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a783d6593bfc84144bc1e79e4bf4a826
+      internalID: -1916411055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 181
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1739a97dc48420ca17d74a9722c301
+      internalID: -1475571757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 181
+        width: 1
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d03d985455747dda5a912d685bb392
+      internalID: 1425991564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 181
+        width: 41
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6753104571747979153fc32759d1bf
+      internalID: 842285397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 181
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4679e8f76afbb46d7adc1f2a94010b27
+      internalID: -1728651264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 181
+        width: 25
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931642872624f457a97a90402b234707
+      internalID: -1613230977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_17
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 181
+        width: 30
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c670f8a488c446b78c06d174e793aad
+      internalID: -1437095895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90.75
+        width: 39.444443
+        height: 90.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee025678a26a4dadaf9bb84f84e4e7a
+      internalID: -1498657818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 91
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f6acc1a43d64d78ba64026a6c822bf
+      internalID: -1596063630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 91
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ada9e687dbc14e98b8ae0e6e097d83f
+      internalID: 91445345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 91
+        width: 25
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92578751889c148408b35d0a57079c80
+      internalID: -1404244528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 91
+        width: 36
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccff4b94e2ed84086900548bd3fe6dd6
+      internalID: -1017317231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 91
+        width: 34
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d209566ea43094d98b53b4afd3de0571
+      internalID: 1370509230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 91
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b681312c4f7994f33901531380e7e91b
+      internalID: -677524780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 91
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad6e7acfe9a74f149144fd738231d78
+      internalID: -2083069784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_26
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 91
+        width: 35
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9e158559c4b4f08b45621018ca3533
+      internalID: 761161332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72768c46cb1bc42369ae98153793430d
+      internalID: -1952766630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_28
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1
+        width: 1
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668c0394e69554b2fa14638696ea372c
+      internalID: -1264610358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca81cc6e22f746c2a79f4108f65839c
+      internalID: -983355751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e46aa6fc6484a34a938721d02450dd
+      internalID: -156642033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_31
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240399327d41e4d3f8461054f9878aed
+      internalID: 178893425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_0: -1238810226
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_1: 1411632362
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_10: 2085251972
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_11: -1916411055
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_12: -1475571757
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_13: 1425991564
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_14: 842285397
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_15: -1728651264
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_16: -1613230977
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_17: -1437095895
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_18: -1498657818
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_19: -1596063630
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_2: -680421778
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_20: 91445345
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_21: -1404244528
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_22: -1017317231
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_23: 1370509230
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_24: -677524780
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_25: -2083069784
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_26: 761161332
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_27: -1952766630
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_28: -1264610358
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_29: -983355751
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_3: 885553425
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_30: -156642033
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_31: 178893425
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_4: -1363986979
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_5: -1656355709
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_6: -1715289469
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_7: -98656125
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_8: -505561897
+      pngtree-hijaiyah-letter-a-ba-ta---yes-vector-png-image_7083854_9: -733833768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
