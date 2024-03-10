@@ -123,64 +123,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &14734791
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (26)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 124.95202
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -84.28287
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1001 &16856616
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -238,64 +180,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
---- !u!1001 &26371959
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (6)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 108.53546
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -17.019716
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1001 &37212670
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -353,122 +237,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
---- !u!1001 &67187864
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (40)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 198.56268
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 36.462097
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &86841611
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 63.092567
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 20.982233
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1 &142157568
 GameObject:
   m_ObjectHideFlags: 0
@@ -590,7 +358,7 @@ SpriteRenderer:
   m_Size: {x: 19, y: 6.88}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &142157571
@@ -665,7 +433,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
---- !u!1001 &162717028
+--- !u!1001 &201642622
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -673,126 +441,55 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (17)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.30005503
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.48008806
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.48008806
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 64.8
+      value: 53.11
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -39.9
+      value: -45.34
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.7071068
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: 0.7071068
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5927821331936500507, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_Name
+      value: Road_01_Tile_04 (26)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &222401142
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (19)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 52.33646
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -41.02533
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
 --- !u!1001 &225624579
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1004,64 +701,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
---- !u!1001 &284609701
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (22)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 41.276165
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -66.77803
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1 &297334376 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6724644473723967714, guid: 22a9535e88e394b6abafecd687365438, type: 3}
@@ -1119,64 +758,6 @@ EdgeCollider2D:
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
   m_UseAdjacentEndPoint: 0
---- !u!1001 &298603442
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (5)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 76.11421
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -8.250034
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1001 &300009551
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1331,7 +912,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e1f5f7798ecc64b1d92aa624fa15ec35, type: 3}
---- !u!1001 &333848669
+--- !u!1001 &360181623
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1339,172 +920,55 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (21)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 43.205284
+      value: 58.62888
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -51.087845
+      value: -50.56
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5927821331936500507, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_Name
+      value: Road_01_Tile_04 (28)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &373194056
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (23)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 48.735435
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -79.13855
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &395734790
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -4.1812057
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -2.8023026
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
 --- !u!1001 &410860301
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1838,6 +1302,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
+--- !u!1001 &555715023
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 47.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -35.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5927821331936500507, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_Name
+      value: Road_01_Tile_04 (27)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
 --- !u!1001 &598937179
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1909,7 +1430,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1139241276420575562, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -28.88
+      value: -29.01
       objectReference: {fileID: 0}
     - target: {fileID: 1139241276420575562, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1952,122 +1473,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
---- !u!1001 &614215753
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (27)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 131.38242
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -69.235725
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &614791102
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (32)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 148.85606
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -30.377037
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1001 &675956981
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2233,7 +1638,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &729080991
+--- !u!1001 &723713243
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -2241,172 +1646,55 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (18)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 57.60939
+      value: 243.00597
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -49.12764
+      value: -26.33757
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.7071068
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: 0.7071068
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5927821331936500507, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_Name
+      value: Road_01_Tile_04 (33)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &739318052
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (30)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 120.19352
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -24.589672
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &748925871
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (47)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 103.82692
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 38.895477
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
 --- !u!1 &754231331
 GameObject:
   m_ObjectHideFlags: 0
@@ -2593,7 +1881,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c78997a833e041249a23b44818fcab1, type: 3}
---- !u!1001 &818312844
+--- !u!1001 &812365450
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -2601,56 +1889,55 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (38)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 238.34879
+      value: 119.39691
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 38.39122
+      value: -52.723297
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.7071068
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: 0.7071068
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5927821331936500507, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_Name
+      value: Road_01_Tile_04 (32)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
 --- !u!1001 &829620152
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2661,7 +1948,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -46.14
+      value: -46.6
       objectReference: {fileID: 0}
     - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2708,122 +1995,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
---- !u!1001 &862947294
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (7)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 128.7323
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 36.129864
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &876663293
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (10)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 45.092476
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 47.67259
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1 &878626642
 GameObject:
   m_ObjectHideFlags: 0
@@ -2916,122 +2087,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &910009148
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (8)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 91.52759
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 49.151512
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &937681265
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 10.311835
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.9584038
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1001 &962162194
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3089,122 +2144,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
---- !u!1001 &969697697
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (29)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 118.521614
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -45.829056
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &987131937
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (28)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 121.09378
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -58.432648
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1001 &990998897
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3262,7 +2201,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c78997a833e041249a23b44818fcab1, type: 3}
---- !u!1001 &1004540577
+--- !u!1001 &1144861051
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -3270,48 +2209,47 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 266457528933455358, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
       propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (39)
+      value: Road_01_Tile_04 (30)
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 1139241276420575562, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 216.48541
+      value: 112.223724
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 1139241276420575562, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 41.349205
+      value: -83.07422
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 1139241276420575562, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 1139241276420575562, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 1139241276420575562, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 1139241276420575562, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 1139241276420575562, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 1139241276420575562, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 1139241276420575562, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 1139241276420575562, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
@@ -3319,181 +2257,7 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &1051028922
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (33)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 173.03438
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -27.933483
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &1108948639
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (42)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 149.04858
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 36.590706
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &1146782365
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (9)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 58.402027
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 33.993332
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
 --- !u!1001 &1165687363
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3551,122 +2315,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
---- !u!1001 &1230445727
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (44)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 128.95364
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -3.7772036
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &1253254900
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 63.092567
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -21.803175
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1001 &1309294841
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3821,180 +2469,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
---- !u!1001 &1403598422
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (36)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 242.07841
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -10.881184
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &1407521029
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (24)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 64.55423
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -81.83932
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &1513825563
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (25)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 93.8011
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -81.83932
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1001 &1515726180
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4052,91 +2526,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
---- !u!1 &1516983239
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1516983241}
-  - component: {fileID: 1516983240}
-  m_Layer: 0
-  m_Name: "Screenshot 2024-02-25 at 11.20.43\u202FPM"
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!212 &1516983240
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1516983239}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: b67b949a585344cebbbe99fb0b23691e, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 2
-  m_Size: {x: 335, y: 200}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &1516983241
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1516983239}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 98.3, y: -16.4, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1526012934
+--- !u!1001 &1516179260
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -4144,56 +2534,124 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (12)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 18.498419
+      value: 53.189167
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 49.43453
+      value: -40.53
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.7071068
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: 0.7071068
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5927821331936500507, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_Name
+      value: Road_01_Tile_04 (25)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+--- !u!1001 &1578977326
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.075
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 130.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -70.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3040154327797599262, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_Size.x
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 3040154327797599262, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_DrawMode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5927821331936500507, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_Name
+      value: Road_01_Tile_04 (31)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
 --- !u!1001 &1583978665
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4251,122 +2709,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
---- !u!1001 &1585544426
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (37)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 244.26476
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 25.514904
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &1588370151
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (46)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 87.88558
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -19.081566
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1 &1592218494
 GameObject:
   m_ObjectHideFlags: 0
@@ -4786,180 +3128,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
---- !u!1001 &1645810385
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (16)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -41.251514
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -2.1721516
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &1674243782
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (15)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -53.59789
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 12.103344
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &1681194885
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 22.887222
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -2.8760586
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1001 &1716352636
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5057,238 +3225,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e1f5f7798ecc64b1d92aa624fa15ec35, type: 3}
---- !u!1001 &1759990680
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (35)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 236.53339
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -32.434765
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &1760589341
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (20)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 42.047813
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -35.881004
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &1796618782
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (34)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 201.8951
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -30.377037
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &1853711680
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (11)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 41.14891
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -5.0726585
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1001 &1870632353
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5374,122 +3310,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 22a9535e88e394b6abafecd687365438, type: 3}
---- !u!1001 &1872145980
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (14)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -51.154335
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 44.41881
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &1892681559
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (13)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -13.524992
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 47.119583
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1001 &1893060694
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5725,6 +3545,63 @@ CapsuleCollider2D:
   m_Offset: {x: 0.03503827, y: 0.017524946}
   m_Size: {x: 4.1393967, y: 9.714538}
   m_Direction: 0
+--- !u!1001 &1895386967
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 64.01386
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5927821331936500507, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_Name
+      value: Road_01_Tile_04 (24)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
 --- !u!1 &1929216330
 GameObject:
   m_ObjectHideFlags: 0
@@ -5840,7 +3717,7 @@ SpriteRenderer:
   m_Size: {x: 12, y: 6.88}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1929216333
@@ -6085,64 +3962,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c78997a833e041249a23b44818fcab1, type: 3}
---- !u!1001 &1960343209
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (45)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 119.56525
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -7.892663
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1001 &1962083483
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6208,7 +4027,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d675d3051259e4cf88b0704281f4fef1, type: 3}
---- !u!1001 &1967353163
+--- !u!1001 &2026232067
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -6216,172 +4035,55 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (41)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 174.38437
+      value: 42.151524
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 38.90565
+      value: -75.33761
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.7071068
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: 0.7071068
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+    - target: {fileID: 2040201074676025743, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5927821331936500507, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
+      propertyPath: m_Name
+      value: Road_01_Tile_04 (29)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &1988959009
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (31)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 128.42444
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -22.274727
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
---- !u!1001 &2019090641
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-        Variant (43)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 131.14754
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 16.399239
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
 --- !u!1001 &2045353002
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6776,6 +4478,14 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: -2028910063
       objectReference: {fileID: 0}
+    - target: {fileID: 6452515330281503661, guid: 4f524acdfe5ff40a5be9beb7cf2c75ab, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 6452515330281503661, guid: 4f524acdfe5ff40a5be9beb7cf2c75ab, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.04
+      objectReference: {fileID: 0}
     - target: {fileID: 7078388050012352250, guid: 4f524acdfe5ff40a5be9beb7cf2c75ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: 68.72
@@ -6886,63 +4596,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c4a452496a0034256be1d21d5e27749a, type: 3}
---- !u!1001 &8708130137382764638
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5453023894491464087, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_Name
-      value: depositphotos_180293770-stock-illustration-side-of-brown-wooden-crate
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 3.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.92
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5633036631963163320, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 921e56c9b13514e83a4ce3e07925cbb2, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -6998,53 +4651,13 @@ SceneRoots:
   - {fileID: 675956981}
   - {fileID: 6610503846802200411}
   - {fileID: 829620152}
-  - {fileID: 1516983241}
-  - {fileID: 8708130137382764638}
-  - {fileID: 937681265}
-  - {fileID: 1681194885}
-  - {fileID: 395734790}
-  - {fileID: 86841611}
-  - {fileID: 1253254900}
-  - {fileID: 298603442}
-  - {fileID: 26371959}
-  - {fileID: 862947294}
-  - {fileID: 910009148}
-  - {fileID: 1146782365}
-  - {fileID: 876663293}
-  - {fileID: 1853711680}
-  - {fileID: 1526012934}
-  - {fileID: 1892681559}
-  - {fileID: 1872145980}
-  - {fileID: 1674243782}
-  - {fileID: 1645810385}
-  - {fileID: 162717028}
-  - {fileID: 729080991}
-  - {fileID: 222401142}
-  - {fileID: 1760589341}
-  - {fileID: 333848669}
-  - {fileID: 284609701}
-  - {fileID: 373194056}
-  - {fileID: 1407521029}
-  - {fileID: 1513825563}
-  - {fileID: 14734791}
-  - {fileID: 614215753}
-  - {fileID: 987131937}
-  - {fileID: 969697697}
-  - {fileID: 739318052}
-  - {fileID: 1988959009}
-  - {fileID: 614791102}
-  - {fileID: 1051028922}
-  - {fileID: 1796618782}
-  - {fileID: 1759990680}
-  - {fileID: 1403598422}
-  - {fileID: 1585544426}
-  - {fileID: 818312844}
-  - {fileID: 1004540577}
-  - {fileID: 67187864}
-  - {fileID: 1967353163}
-  - {fileID: 1108948639}
-  - {fileID: 2019090641}
-  - {fileID: 1230445727}
-  - {fileID: 1960343209}
-  - {fileID: 1588370151}
-  - {fileID: 748925871}
+  - {fileID: 1895386967}
+  - {fileID: 1516179260}
+  - {fileID: 201642622}
+  - {fileID: 555715023}
+  - {fileID: 360181623}
+  - {fileID: 2026232067}
+  - {fileID: 1144861051}
+  - {fileID: 1578977326}
+  - {fileID: 812365450}
+  - {fileID: 723713243}
