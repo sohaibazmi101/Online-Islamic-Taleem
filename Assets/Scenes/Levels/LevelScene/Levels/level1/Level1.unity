@@ -258,7 +258,6 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
-  fallDetector: {fileID: 0}
 --- !u!70 &6199483
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -438,6 +437,10 @@ PrefabInstance:
     - target: {fileID: 7231661193637680519, guid: 789e82e6c97c5435fb68ed8b5deb7890, type: 3}
       propertyPath: m_SortingLayerID
       value: -2028910063
+      objectReference: {fileID: 0}
+    - target: {fileID: 7385999586266982192, guid: 789e82e6c97c5435fb68ed8b5deb7890, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.063
       objectReference: {fileID: 0}
     - target: {fileID: 7859788246748553867, guid: 789e82e6c97c5435fb68ed8b5deb7890, type: 3}
       propertyPath: m_LocalPosition.x
